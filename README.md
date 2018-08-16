@@ -17,7 +17,8 @@ Após isso a cada novo arquivo criado no diretorio de entrada o sistema executa 
 2 - tenta processar os dados
 
     2.1 - caso aconteça algum problema ao processar os dados
-    o sistema renomeia o arquivo original para "file_name.error˜, para assim ignorar esse arquivo até que ele seja ajustado
+    o sistema renomeia o arquivo original para "file_name.error˜, para assim ignorar esse arquivo até que 
+    ele seja ajustado
     
     2.2 - cria um novo arquivo com o mesmo nome do arquivo original com a extenção ".ERROR-DETAIL"
     com os detalhes do erro
@@ -30,4 +31,5 @@ Após isso a cada novo arquivo criado no diretorio de entrada o sistema executa 
 
 
     Obs: O pior vendedor é aquele que vendeu menos em R$ e não quem fez menos venda.
-    Ou seja um vendedor pode ter feito somente uma venda e ainda sim ser melhor do que outro que fez 5 vendas, desde que o valor total da venda seja maior que a soma das 5 vendas do outro vendedor.
+    Ou seja um vendedor pode ter feito somente uma venda e ainda sim ser melhor do que outro que fez 5 vendas, 
+    desde que o valor total da venda seja maior que a soma das 5 vendas do outro vendedor.
