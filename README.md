@@ -29,5 +29,5 @@ Após isso a cada novo arquivo criado no diretorio de entrada o sistema executa 
 4 - adiciona a extenção .ready ao arquivo original, para ele não ser processado novamente.
 
 
-O pior vendedor é aquele que vendeu menos em R$ e não quem fez menos venda.
-Ou seja um vendedor pode ter feito somente uma venda e ainda sim ser melhor do que outro que fez 5 vendas, desde que o valor total da venda seja maior que a soma das 5 vendas do outro vendedor.
+    Obs: O pior vendedor é aquele que vendeu menos em R$ e não quem fez menos venda.
+    Ou seja um vendedor pode ter feito somente uma venda e ainda sim ser melhor do que outro que fez 5 vendas, desde que o valor total da venda seja maior que a soma das 5 vendas do outro vendedor.
